@@ -1,6 +1,6 @@
 //
 //  MainViewController.m
-//  Fooda
+//  Driva
 //
 //  Created by Christopher Gu on 5/23/14.
 //  Copyright (c) 2014 Christopher Gu. All rights reserved.
@@ -115,7 +115,7 @@
     else
     {
         MKPinAnnotationView *pin = [[MKPinAnnotationView alloc] initWithAnnotation:annotation reuseIdentifier:nil];
-        pin.image = [UIImage imageNamed:@"foodaDriverIcon"];
+        pin.image = [UIImage imageNamed:@"drivaDriverIcon"];
         
         // creating a label for the pin
         UILabel *pinDriverLabel = [[UILabel alloc] initWithFrame:CGRectMake(-35, -10, 90, 10)];

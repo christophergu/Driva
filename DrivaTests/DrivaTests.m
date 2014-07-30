@@ -1,6 +1,6 @@
 //
-//  FoodaTests.m
-//  FoodaTests
+//  DrivaTests.m
+//  DrivaTests
 //
 //  Created by Christopher Gu on 5/23/14.
 //  Copyright (c) 2014 Christopher Gu. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface FoodaTests : XCTestCase
+@interface DrivaTests : XCTestCase
 
 @end
 
-@implementation FoodaTests
+@implementation DrivaTests
 
 - (void)setUp
 {

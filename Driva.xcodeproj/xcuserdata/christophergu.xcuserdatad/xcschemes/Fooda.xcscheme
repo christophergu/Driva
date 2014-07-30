@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DF1B5B82192FC81E0003166B"
-               BuildableName = "Fooda.app"
-               BlueprintName = "Fooda"
-               ReferencedContainer = "container:Fooda.xcodeproj">
+               BuildableName = "Driva.app"
+               BlueprintName = "Driva"
+               ReferencedContainer = "container:Driva.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DF1B5BA3192FC81F0003166B"
-               BuildableName = "FoodaTests.xctest"
-               BlueprintName = "FoodaTests"
-               ReferencedContainer = "container:Fooda.xcodeproj">
+               BuildableName = "DrivaTests.xctest"
+               BlueprintName = "DrivaTests"
+               ReferencedContainer = "container:Driva.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DF1B5B82192FC81E0003166B"
-            BuildableName = "Fooda.app"
-            BlueprintName = "Fooda"
-            ReferencedContainer = "container:Fooda.xcodeproj">
+            BuildableName = "Driva.app"
+            BlueprintName = "Driva"
+            ReferencedContainer = "container:Driva.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DF1B5B82192FC81E0003166B"
-            BuildableName = "Fooda.app"
-            BlueprintName = "Fooda"
-            ReferencedContainer = "container:Fooda.xcodeproj">
+            BuildableName = "Driva.app"
+            BlueprintName = "Driva"
+            ReferencedContainer = "container:Driva.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DF1B5B82192FC81E0003166B"
-            BuildableName = "Fooda.app"
-            BlueprintName = "Fooda"
-            ReferencedContainer = "container:Fooda.xcodeproj">
+            BuildableName = "Driva.app"
+            BlueprintName = "Driva"
+            ReferencedContainer = "container:Driva.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
